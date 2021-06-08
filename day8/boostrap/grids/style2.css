@@ -1,0 +1,16 @@
+
+div[class^="col"]{
+    background-color: lightgray;
+    border: 1px solid grey;   
+}
+.mycontainer{
+    max-width: 990px;
+    margin: 0 auto;
+}
+div[class^="con"]{
+    background-color: lightgray;
+    border: 1px solid grey;   
+}
+p,h2{
+    text-align: center;
+}

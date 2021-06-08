@@ -1,0 +1,16 @@
+.main{
+    border: 2px solid blueviolet;
+    height: 200px;
+    width: 300px;
+    background-color: cadetblue;
+}
+.main p{
+    background-color: burlywood;
+}
+.boxa{
+    margin-left: 522px;
+}
+.boxb{
+    margin-left: 522px;
+    margin-top: 100px;
+}

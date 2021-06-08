@@ -1,0 +1,96 @@
+.container{
+    width: 100%;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+}
+
+header{
+    background-color: rgba(0, 0, 0);
+    font-family: sans-serif;
+    
+}
+
+.site-nav ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+    .site-nav li{
+
+        list-style: none;
+        
+        margin-right: 5px;
+    }
+.site-nav li a{
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 20px;
+    
+    
+}
+.site-nav a:hover{
+    background-color: #51524f59;
+    color: aliceblue;
+    border-bottom:2px solid red;
+}
+
+.main-content{
+
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+    font-family: sans-serif;
+    margin: 30px 0;
+    padding: 10px 30px;
+    
+}
+.col{
+    height: 400px;
+    width: 20%;
+    box-sizing: border-box;
+    padding: 10px 10px;
+    margin-bottom: 30px;
+}
+.col img{
+    width: 100%;
+
+}
+.inner-cont{
+    text-align: left;
+    /* background-color: royalblue; */
+    padding:10px 0;
+}
+.inner-cont h1{
+    margin: 0;
+    font-size: 120%;
+}
+.inner-cont p{
+    font-size: 90%;
+    margin-top: 2px;
+    margin-bottom: 8px;
+    color: grey;
+    text-align: left;
+    box-sizing: border-box;
+    
+}
+.btns{
+    display: flex;
+    justify-content: left;
+}
+.inner-cont .btns a{
+    display: block;
+    text-decoration: none;
+    color: rgb(63, 61, 61);
+    font-size: 89%;
+    padding: 5px 8px;
+    
+    
+    
+}
+.inner-cont a:hover{
+    background-color: lightgrey;
+    color: red;
+}
