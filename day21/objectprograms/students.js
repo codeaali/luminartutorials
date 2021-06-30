@@ -10,7 +10,8 @@ console.log("mrp",product["mrp"]);
 
 //item name
 console.log("name",product.name);
-//update new offer of 2000
+
+//update new offer of -2000
 product.mrp -= 2000;
 console.log("new price:",product.mrp);
 //check offer and insert
