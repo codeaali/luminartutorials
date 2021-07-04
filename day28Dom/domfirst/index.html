@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Document Object model</h1>
+    <ul>
+        <li>hi</li>
+    </ul>
+    <a href="#">google</a>
+    <a href="#">ntfl</a>
+    <a href="#">pop</a>
+</body>
+</html>
+//console//
+var h1s = document.getElementsByTagName("h1")
+undefined
+for(let heads of h1s){
+  heads.style.color="red"
+}
+"red"
+var links = document.getElementsByTagName("a")
+undefined
+var link = document.getElementsByTagName("a")
+undefined
+for(let links of link){
+  links.style.color="blueviolet"
+}
+"blueviolet"
+for(let links of link){
+  links.textContent = "notaccessible"
+}
+"notaccessible"
+
+​
+
