@@ -1,0 +1,5 @@
+// localStorage.setItem("username","admin")
+// localStorage.setItem("password","admin@123")
+let user = localStorage.getItem("username")
+localStorage.removeItem("password")
+localStorage.clear()

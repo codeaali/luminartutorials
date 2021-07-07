@@ -4,7 +4,7 @@
     margin: 0 auto;
     text-align: center;
     padding: 40px 0px;
-    background-color: aquamarine;
+    background-color: #171717;
 }
 .calculator{
     margin: 0 auto;
@@ -40,7 +40,7 @@
 input[type="text"]{
     width:100%;
     height: 120px;
-    background-color: rgb(228, 17,17);
+    background-color:#DA0037;
     border:0px;
     box-sizing: border-box;
     border-radius: 15px 15px 0px 0px;

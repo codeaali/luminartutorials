@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book localstorage</title>
+</head>
+<body>
+
+
+    <input type="text" name="" id="book_nm" placeholder="Book name">
+    <input type="text" name="" id="auth" placeholder="author name">
+    <input type="text" id="prc" placeholder="pricing">
+    <input type="text" id="no_cop" placeholder="no of copies">
+    <button onclick="createBook()">create</button>
+
+    
+    <script>
+        // localStorage.clear()
+        function createBook()
+        {
+            let book = book_nm.value
+            let author = auth.value
+            let price = prc.value
+            let no_copies = no_cop.value
+            let bookData ={
+                book_name:book,
+                author:author,
+                price:price,
+                no_copies:no_copies
+            }
+            localStorage.setItem(book,JSON.stringify(book))
+            alert("user created")
+            location.reload(true)
+         }
+
+    </script>
+     <!-- //assignment
+     //bookname,author,price,no_copies -->
+
+</body>
+</html>

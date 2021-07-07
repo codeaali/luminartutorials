@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+        <input type="text" name="" id="acc_no" placeholder="account number">
+        <input type="text" name="" id="pwd" placeholder="password">
+        <input type="text" id="bal" placeholder="balance">
+        <button onclick="createUser()">create</button>
+
+
+
+
+    <script>
+
+        function createUser()
+        {
+            let account_number = acc_no.value
+            let password = pwd.value
+            let balance = bal.value
+            let user= {
+                Account_number:account_number,
+                Password:password,
+                Balance:balance
+            }
+            localStorage.setItem(account_number,JSON.stringify(user))
+            alert("user created")
+            location.reload(true)
+        }
+       // localStorage.clear()
+        //adding book details as a object
+
+        // var user = {
+        //     account_number:10003,
+        //     password:"abc@123",
+        //     balance:5000
+        // }
+        //                         //key              //value
+        // localStorage.setItem(user.account_number,JSON.stringify(user))
+
+        //assignment
+        //bookname,author,price,no_copies
+
+    </script>
+</body>
+</html>
