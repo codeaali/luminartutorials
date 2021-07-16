@@ -1,0 +1,40 @@
+<h4>Luminar Tutorial resources </h4>
+
+01. 
+02. MEAN basics of web(2021 -05-19)                             : https://drive.google.com/file/d/10WyIOZHW3smn8LXqs-2HSfSlR2JFLzD4/view
+03. MEAN May2021(2) | html | 24 may 2021 | Sajay.mp4            : https://drive.google.com/file/d/1p9Wot7ElNIywIFHntMD81R8OMfYF-SMZ/view
+04. MEAN May2021(2) | css | 25 may 2021 | Sajay.mp4             : https://drive.google.com/file/d/1_L8zGeKmg7Weid5uH9tMuyVDOMLCpLPb/view
+05. MEAN May2021(2) | css box model | 27 may 2021 | Sajay.mp4   : https://drive.google.com/file/d/1XPblFwnDnMyT9cRq-zpkAdOF2Irn_nr6/view
+06. MEAN May2021(2) | css positioning | 28 may 2021 | Sajay.mp4 : https://drive.google.com/file/d/1Wabju7jYeI17wRi5Y_OPzFLKRMgob9C6/view
+07. MEAN May2021(2) | css flexbox | 29 may 2021 | Sajay.mp4     : https://drive.google.com/file/d/1xwOINklz3fzCDGUp5hjtmlcbJN0yjHLV/view
+08. MEAN May2021(2) | Bootstrap | 31 may 2021 | Sajay.mp4       : https://drive.google.com/file/d/1Cfrg3SiP4nindqMj0RZKnR60ZcPiEkG1/view
+09. MEAN May2021(2) | Bootstrap grid sysytem | 2 Jun 2021 | Sajay.mp4   : https://drive.google.com/file/d/1K2Bn7mi1JEd6HoJBHW77JvFwS1TjTH0K/view
+10. MEAN May2021(2) | Bootstrap navigation bar | 3 Jun 2021 | Sajay.mp4 : https://drive.google.com/file/d/1ikTbWb8bIrXt6kqs4KCtA5lWpm8TKtgA/view
+11. MEAN May2021(2) | model carousel cards | 4 Jun 2021 | Sajay.mp4  : https://drive.google.com/file/d/1kf3IyUjMUOv80OPMMGNU4lWiVBvJpFAN/view
+12. MEAN May2021(2) | git and github intro | 7 Jun 2021 | Sajay.mp4 : https://drive.google.com/file/d/1fIpumDqVIrXpKTisFnWTWydaory_qO6l/view
+13. MEAN May2021(2) | git and github | 8 Jun 2021 | Sajay.mp4       : https://drive.google.com/file/d/1lJYwRBCk-XUX3dOa8nmmuWS3cfwbzeFt/view
+14. MEAN May2021(2) | git and github | 9 Jun 2021 | Sajay.mp4       : https://drive.google.com/file/d/1cpA0imF4C_w5buXkgnwtt8UoJwo1naOv/view
+15. MEAN May2021(2) | java script fundamentals| 10 Jun 2021 | Sajay.mp4     : https://drive.google.com/file/d/1P3ydjePjj1ZkpMpo9KvrON3oh869h-6w/view
+16. MEAN May2021(2) | java script operations and flow control| 11 Jun 2021 | Sajay.mp4 : https://drive.google.com/file/d/1aLYBnvb_Neipkb9l2DMj8woNDwIWymbt/view
+17. MEAN May2021(2) | Looping statement (while) | 14 Jun 2021 | Sajay.mp4 : https://drive.google.com/file/d/1WTbnSrgtOi5TIXxddvD6fZrZcRjnlDKt/view
+18. MEAN May2021(2) | Javascript Looping (for) | 15 Jun 2021 | Sajay.mp4 : https://drive.google.com/file/d/1N7VeA6bOuGNwPz9krHnvddFrtMzSpt0K/view
+19. MEAN May2021(2) | Javascript arrays | 16 Jun 2021 | Sajay.mp4       : https://drive.google.com/file/d/1Cru_9l2QLgdrGj2ZoeUv6_oiiz9aTxAO/view
+20. MEAN May2021(2) | Javascript arrays | 17 Jun 2021 | Sajay.mp4       : https://drive.google.com/file/d/1BYrHWwycbTiIc35scR-kXlftpu0EU3Io/view
+21. MEAN May2021(2) | Binary Search functions | 18 Jun 2021 | Sajay.mp4 : https://drive.google.com/file/d/1JZC8gvrzJvAzz0vdPqXzcvTspCBLF9LI/view
+22. MEAN May2021(2) | Java script Objects | 21 Jun 2021 | Sajay.mp4 : https://drive.google.com/file/d/1CcdLoGWJzf18jswWGybYDAayzZabszJi/view
+23. MEAN May2021(2) | Java script Objects | 22 Jun 2021 | Sajay.mp4 : https://drive.google.com/file/d/1b6RZYVuuNt6fDXjSdZPA_LKkZiJcF2Fx/view
+24. MEAN May2021(2) | Java script array method | 23 Jun 2021 | Sajay.mp4 : https://drive.google.com/file/d/1K2LJzMt1Qi33O-JiiuvVDHLEwtxtZHp8/view
+25. MEAN May2021(2) | array method | 24 Jun 2021 | Sajay.mp4        : https://drive.google.com/file/d/1dO6vY9jCJxSlwl4EYF2kpRuNS4B4DASw/view
+26. MEAN May2021(2) | array method | 25 Jun 2021 | Sajay.mp4        : https://drive.google.com/file/d/1yIurKcP048SFzq0c3WEyodlWT9CDhfF_/view
+27. MEAN May2021(2) | JavaScript object o ... ted programming | 28 Jun 2021 | Sajay.mp4 : https://drive.google.com/file/d/1-Bv2ix2hMToY42Q7G_w2IBs1GCMqeHOB/view
+28. MEAN May2021(2) | JavaScript object o ... ted programming | 30 Jun 2021 | Sajay.mp4 : https://drive.google.com/file/d/1JRXbM1MmCRy9eXX-4JRkuL-ahBIDqsrG/view
+29. MEAN May2021(2) | JavaScript object oriented programming | 1 Jul 2021 | Sajay.mp4 : https://drive.google.com/file/d/1woQq6X58HrRGSK4C0H5fRS_I-y1J4sui/view
+30. MEAN May2021(2) | Document object model | 2 Jul 2021 | Sajay.mp4 : https://drive.google.com/file/d/18H6fbdmLWOXZ7z1_tLhLkYL_8z3o8zIS/view
+31. MEAN May2021(2) | calculator application | 3 Jul 2021 | Sajay.mp4 : https://drive.google.com/file/d/1U4ochnwAGex3ltwI9oOwxHZ2R_-ms-N1/view
+32. MEAN May2021(2) | local storage | 5 Jul 2021 | Sajay.mp4        : https://drive.google.com/file/d/1amyizBX9km3OoOLSqV1ZuMmx5La2UMtM/view
+33. MEAN May2021(2) | bank application | 6 Jul 2021 | Sajay.mp4     : https://drive.google.com/file/d/1xiQl28McqLV7xkT2DBKIpKi6QnxXBJxH/view
+34. MEAN May2021(2) | bank application | 7 Jul 2021 | Sajay.mp4     : https://drive.google.com/file/d/1l2F4-1vNv-l4slBwGGgBInIKK095j-B5/view
+35. MEAN May2021(2) | java script fetch | 8 Jul 2021 | Sajay.mp4    : https://classroom.google.com/u/0/c/MzQzMzEwMDk3MTI1/p/MzcwMTA5MzUxNjgw/details
+36. MEAN May2021(2) | java script fetch | 9 Jul 2021| Sajay         : https://classroom.google.com/u/0/c/MzQzMzEwMDk3MTI1/p/MzcwMTA5MzUxNzI2/details
+
+ 
