@@ -46,6 +46,7 @@
 
 
         }
+        //  //////console.log(users);
         populate(users)
 
         //console.log(users);
@@ -59,9 +60,9 @@
             let user = JSON.parse(localStorage.getItem(uname))
             // console.log(user["Password"]);
             // console.log(pass);
-            if (user.password ==  pass) {
+            if (user.password == pass) {
 
-                sessionStorage.setItem("user",uname)
+                sessionStorage.setItem("user", uname)
                 alert("login success")
                 window.location.href = "userhome.html"
             } else {
@@ -73,20 +74,56 @@
 
     }
 
-    function displayBalance(){
+    function displayBalance() {
         let user = sessionStorage.getItem("user")
         let data = JSON.parse(localStorage.getItem(user))
         // console.log(data);
-        alert(data.balance)
-    }
-
-    function transferFund(){
+        ////alert(data.balance)
 
     }
-    function logout()
+    function getUser(acn)
     {
+
+        let user = JSON.parse(localStorage.getItem(acn))
+        return user;
+    }
+
+    function transferFund() {
+        let toaccno = toaccount.value
+        let cnfm = confirmtoaccount.value
+        let amt = amount.value
+
+        if (toaccno in localStorage) {
+            let user = sessionStorage.getItem("user")
+            let account = getUser(user)
+            if (account.balance < amt) {
+                alert("insufficient bal")
+            }else{
+                account.balance -= amt
+                localStorage.setItem(user,JSON.stringify(account))
+                let touser = getUser(toaccno)
+                touser.balance = amt+Number(touser.balance)
+                localStorage.setItem(toaccno,JSON.stringify(touser))
+                alert("transaction done")
+            }
+        } else {
+            alert("invalid to_account number")
+        }
+
+    }
+
+
+
+    user = sessionStorage.getItem("user")
+    if (user) {
+        profile.innerHTML = `${user}`
+    }
+
+
+
+    function logout() {
         sessionStorage.removeItem("user")
-        location.href="login.html"
+        location.href = "login.html"
     }
 
     //send money
