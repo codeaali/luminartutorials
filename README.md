@@ -86,22 +86,22 @@
 67. Meanstack May_JWT|5th sep|Sibin: https://www.youtube.com/watch?v=An9KR96VaA8
 
 <p> 	[iv] React. </p>
-68. 1  Meanstack May batch_Reactjs| Angular Vs React,intro to react, project setup|8th sep|Uwaize : https://www.youtube.com/watch?v=s8MYGDpV_Sw
-69. 2  meanstack may batch_reactjs|Class based and function based components|9th sep|uwaize : https://www.youtube.com/watch?v=Nt2trw7UvWg
-70. 3  Meanstack May batch_reactjs|Props, useEffecthook, component lifecycle,npm libraries|10th sep|uwaize : https://www.youtube.com/watch?v=QlAa792pwTg
-71. 4  Meanstack May batch_reactjs|13th sep|uwaize : https://www.youtube.com/watch?v=4grYYb6vkJo
-72. 5  Meanstack May batch_reactjs|project|14th sep|Uwaize : https://www.youtube.com/watch?v=_h27-W8Q9M0
-73. 6  meanstack may batch_reactjs|15th sep|Uwaize : https://www.youtube.com/watch?v=IxpHPqcwqqU
-74. 7  Meanstack May Batch_reactjs|project,react router dom16th sep|Uwaize : https://www.youtube.com/watch?v=TCdiAGpyBks
-75. 8  Meanstack May Batch_reactjs| project routing, params, match|21st sep |Uwaize : https://www.youtube.com/watch?v=Gi2OkqMF0f4
-76. 9  Meanstack May Batch_reactjs |project|22nd sep|uwaize : https://www.youtube.com/watch?v=QFTexZGZa1Q
-77. 10 Meanstack May batch_reactjs|redux|24th sep|Uwaize : https://www.youtube.com/watch?v=dXAqcwoqRxs
-78. 11 Meanstack May batch_reactjs|redux|27th sep|uwaize : https://www.youtube.com/watch?v=8TQWbBk08-8
-79. 12 Meanstack May Batch_reactjs|28th sep|Uwaize : https://www.youtube.com/watch?v=wDltZwo8qCg
-80. 13 Mearn Stack May Batch_React Js |7th oct|Uwaize : https://www.youtube.com/watch?v=TZL3xfUOD-A
-81. 14 Mean Stack May Batch 2021|8th oct|Uwaize : https://www.youtube.com/watch?v=2q9Nlcr8Fac
-82. 15 Meanstack May batch _reactjs|11th oct|Uwaize : https://www.youtube.com/watch?v=P3wAOpBkj1A
-83. 16 Meanstack May Batch_reactjs|12th oct|Uwaize : https://www.youtube.com/watch?v=v7J8nXYRnOA
-84. 17 Meanstack May Batch_reactjs|13th oct|Uwaize : https://www.youtube.com/watch?v=FsJFc6P2gw0
+68.   Meanstack May batch_Reactjs| Angular Vs React,intro to react, project setup|8th sep|Uwaize : https://www.youtube.com/watch?v=s8MYGDpV_Sw
+69.   meanstack may batch_reactjs|Class based and function based components|9th sep|uwaize : https://www.youtube.com/watch?v=Nt2trw7UvWg
+70.   Meanstack May batch_reactjs|Props, useEffecthook, component lifecycle,npm libraries|10th sep|uwaize : https://www.youtube.com/watch?v=QlAa792pwTg
+71.   Meanstack May batch_reactjs|13th sep|uwaize : https://www.youtube.com/watch?v=4grYYb6vkJo
+72.   Meanstack May batch_reactjs|project|14th sep|Uwaize : https://www.youtube.com/watch?v=_h27-W8Q9M0
+73.   meanstack may batch_reactjs|15th sep|Uwaize : https://www.youtube.com/watch?v=IxpHPqcwqqU
+74.   Meanstack May Batch_reactjs|project,react router dom16th sep|Uwaize : https://www.youtube.com/watch?v=TCdiAGpyBks
+75.   Meanstack May Batch_reactjs| project routing, params, match|21st sep |Uwaize : https://www.youtube.com/watch?v=Gi2OkqMF0f4
+76.   Meanstack May Batch_reactjs |project|22nd sep|uwaize : https://www.youtube.com/watch?v=QFTexZGZa1Q
+77.  Meanstack May batch_reactjs|redux|24th sep|Uwaize : https://www.youtube.com/watch?v=dXAqcwoqRxs
+78.  Meanstack May batch_reactjs|redux|27th sep|uwaize : https://www.youtube.com/watch?v=8TQWbBk08-8
+79.  Meanstack May Batch_reactjs|28th sep|Uwaize : https://www.youtube.com/watch?v=wDltZwo8qCg
+80.  Mearn Stack May Batch_React Js |7th oct|Uwaize : https://www.youtube.com/watch?v=TZL3xfUOD-A
+81.  Mean Stack May Batch 2021|8th oct|Uwaize : https://www.youtube.com/watch?v=2q9Nlcr8Fac
+82.  Meanstack May batch _reactjs|11th oct|Uwaize : https://www.youtube.com/watch?v=P3wAOpBkj1A
+83.  Meanstack May Batch_reactjs|12th oct|Uwaize : https://www.youtube.com/watch?v=v7J8nXYRnOA
+84.  Meanstack May Batch_reactjs|13th oct|Uwaize : https://www.youtube.com/watch?v=FsJFc6P2gw0
 
 <!-- ************************************ THE END ************************************************ -->
