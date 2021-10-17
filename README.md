@@ -1,6 +1,6 @@
 <h4>Luminar Tutorial resources </h4>
 
-	[0] fundamentals Html | CSS | Bootstrap | Node
+<!-- 	[0] fundamentals Html | CSS | Bootstrap | Node -->
 
 01. 
 02. MEAN basics of web(2021 -05-19)                             : https://drive.google.com/file/d/10WyIOZHW3smn8LXqs-2HSfSlR2JFLzD4/view
@@ -40,10 +40,10 @@
 36. MEAN May2021(2) | java script fetch | 9 Jul 2021| Sajay         : https://classroom.google.com/u/0/c/MzQzMzEwMDk3MTI1/p/MzcwMTA5MzUxNzI2/details		
 
 
-		[i] Angular
+<!-- 		[i] Angular -->
 
 37. Meanstack May 2021_Angular2021-07-15T03:44:46Z : https://www.youtube.com/watch?v=X9fHnlmgtGA&t=2s
-38. 38. MEAN May2021(2) | | 16 Jul 2021 | Soniya  : https://www.youtube.com/watch?v=D46O6eEJQT4
+38. MEAN May2021(2) | | 16 Jul 2021 | Soniya  : https://www.youtube.com/watch?v=D46O6eEJQT4
 39. Meanstack May batch (2) 2021_Angular|login component & one way binding|19th july|soniya : https://www.youtube.com/watch?v=AWApko6mu0s&t=15s
 40. Mean Stack May batch(2) 2021_angular|binding,routing,dependency injection|20th july|soniya : https://www.youtube.com/watch?v=uAaZUhQP7nM&t=7235s
 41. Mean Stack_May _Batch 2_Angular|22nd july|soniya : https://www.youtube.com/watch?v=B2y2FOi1flM&t=6832s
@@ -52,8 +52,10 @@
 44. Mean Stack_May batch 2_Angular|27th july|Soniya  : https://www.youtube.com/watch?v=tC6TVXeJeE0
 45. Mean Stack_May _Batch(2)_angular|28th july|soniya : https://www.youtube.com/watch?v=QrkvqhspcVI&t=4s
 46. Mean Stack_May _Batch(2)29th _angular_soniya    : https://www.youtube.com/watch?v=g3iqqoyGaJI&t=24s
-	************************Back End******************************
-	[ii] Express.
+			
+	<!-- 		Back End -->
+	
+<!-- 		[ii] Express. -->
 
 47. Mean Stack_May _Batch(2)_Angular_30th july|soniya: https://www.youtube.com/watch?v=V7lpG5snCIY
 48. Mean Stack_May _Batch 2|angular|2nd Aug|soniya : https://www.youtube.com/watch?v=HU3gGlhLtz8
@@ -79,11 +81,11 @@
 65.Mean Stack_May _Batch 2_Angular|2nd  sep|soniya : https://www.youtube.com/watch?v=DRmggE3aC7c
 66.Mean Stack_May _Batch 2_Angular|3rd  sep|soniya : https://www.youtube.com/watch?v=qUFUat9Q9Dc *Production/build.
 
-	[iv] AUTH JWT
+<!-- 	[iv] AUTH JWT -->
 
-67. Meanstack May_JWT|5th sep|Sibin				   : https://www.youtube.com/watch?v=An9KR96VaA8
+67. Meanstack May_JWT|5th sep|Sibin: https://www.youtube.com/watch?v=An9KR96VaA8
 
-	[iv] React.
+<!-- 	[iv] React. -->
 68. 1 |Meanstack May batch_Reactjs| Angular Vs React,intro to react, project setup|8th sep|Uwaize : https://www.youtube.com/watch?v=s8MYGDpV_Sw
 69. 2 |meanstack may batch_reactjs|Class based and function based components|9th sep|uwaize : https://www.youtube.com/watch?v=Nt2trw7UvWg
 70. 3 Meanstack May batch_reactjs|Props, useEffecthook, component lifecycle,npm libraries|10th sep|uwaize : https://www.youtube.com/watch?v=QlAa792pwTg
@@ -102,4 +104,4 @@
 83. 16 Meanstack May Batch_reactjs|12th oct|Uwaize : https://www.youtube.com/watch?v=v7J8nXYRnOA
 84. 17 Meanstack May Batch_reactjs|13th oct|Uwaize : https://www.youtube.com/watch?v=FsJFc6P2gw0
 
-************************************ THE END ************************************************
+<!-- ************************************ THE END ************************************************ -->
